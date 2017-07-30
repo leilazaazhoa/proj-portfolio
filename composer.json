@@ -21,6 +21,7 @@
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/admin_toolbar": "^1",
         "drupal/console": "~1.0",
+        "drupal/contact_block": "^1.4",
         "drupal/core": "~8.0",
         "drupal/social_media_links": "^2.5",
         "drush/drush": "~8.0",
